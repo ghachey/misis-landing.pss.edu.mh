@@ -1,2 +1,2 @@
 # misis-landing.pss.edu.mh
-A basic landing page for FedSIS deployments (Training, Test and Production)
+A basic landing page for MISIS deployments (Training, Test and Production)
